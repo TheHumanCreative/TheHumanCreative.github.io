@@ -1,10 +1,12 @@
 p {
-  color: red;
+  color: black;
 }
 
 
 
 h3{
-  font-family: Georgia, serif;
+  font-family: Helvetica, Georgia, serif;
+  font-size: medium;
+  
   
 }
