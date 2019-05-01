@@ -1,9 +1,12 @@
 p {
   color: black;  
 }
-
-
-
 h3{
+  font-family: "sans-serif", serif;
+  font-weight: lighter
+}
 
+
+h5{
+  font-family: serif;
 }
