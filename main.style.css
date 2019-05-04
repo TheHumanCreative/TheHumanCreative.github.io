@@ -23,14 +23,53 @@ header{
   margin-top: 15px;
 }
 
+.box-1{
+  font-family: Tahoma;
+  font-weight: 800; 
+}
+
 .container2{
   background-color: lightyellow;
   border: 2px black solid; 
   padding: 10px;
   margin-top: 15px;
   margin-bottom: 20px;
+  font-family: Verdana, sans-serif;
+}
+.container3{
+  background-color: lightblue;
+  padding: 60px;
+  border-radius: 15px;
+  border: 1px solid;
+  font-family: Verdana, sans-serif;
+  margin: 5px;
+  
+}
+.container4{
+  background-color: lightblue;
+  padding: 60px;
+  border-radius: 15px;
+  border: 1px solid
+  
+}
+.box-2{
+  background-color: lightgray;
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid;
 }
 
+.container5{
+  background-color: lightpink;
+  padding: 10px;
+  color: white;
+  border: 1px solid;
+  border-radius: 15px;
+  margin:10px;
+}
+.container5 ol{
+  list-style: none;
+}
 .box-1{
   background-color: lightgray;
   color:#fffff;
@@ -43,17 +82,15 @@ header{
   text-align: center;
 }
 
-.box-1{
-  font-family: Tahoma;
-  font-weight: 800; 
-}
-
 h3{
   text-align: center;
+  font-family: Helvetica;
+  font-size: 120%;
 }
 
 h4{
   color: red;
+  font-family: Verdana;
 }
 
 .container3 ul{
@@ -63,6 +100,8 @@ h4{
 main{
   background-color: lightgreen;
   border-radius: 15px;
+  border: 1px solid;
   padding: 80px;
   margin-top: 10px;
 }
+
